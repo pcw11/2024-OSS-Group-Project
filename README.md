@@ -26,7 +26,7 @@ https://hits.seeyoufarm.com/
 
 |역할|역할|역할|역할|역할|                                            
 |:---:|:---:|:---:|:---:|:---:|
-|<a href="https://github.com/kbs-kbs/kbs-kbs/graphs/contributors"><img src="https://contrib.rocks/image?repo=kbs-kbs/kbs-kbs"/></a>|||||
+|<a href="https://github.com/kbs-kbs/2024-OSS-Group-Project/graphs/contributors"><img src="https://contrib.rocks/image?repo=kbs-kbs/kbs-kbs"/></a>|||||
 |[@kbs-kbs](https://github.com/kbs-kbs)|||||
 
 
