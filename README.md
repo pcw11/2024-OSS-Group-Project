@@ -174,6 +174,10 @@ example.run()
 
 프로젝트에 기여하는 방법을 설명합니다. 기여 가이드라인, 코드 스타일, 풀 리퀘스트(PR) 절차 등을 포함할 수 있습니다.
 
+### 가이드라인
+
+- [깃허브 위키](https://github.com/kbs-kbs/2024-OSS-Group-Project/wiki/How-To-Contribute)
+
 ## 라이선스
 
 MIT License
