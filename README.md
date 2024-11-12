@@ -24,7 +24,7 @@ https://hits.seeyoufarm.com/
 
 ### 팀 구성
 
-|역할|역할|역할|역할|역할|                                            
+|프로젝트 매니저|개발|개발|문서화|문서화|                                            
 |:---:|:---:|:---:|:---:|:---:|
 |<a href="https://github.com/kbs-kbs/2024-OSS-Group-Project/graphs/contributors"><img src="https://contrib.rocks/image?repo=kbs-kbs/kbs-kbs"/></a>|||||
 |[@kbs-kbs](https://github.com/kbs-kbs)|||||
