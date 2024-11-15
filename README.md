@@ -1,7 +1,14 @@
-# 오픈소스소프트웨어 개발을 위한 원격 저장소 구축 방법 보고서
-## 개요
-## 팀 구성과 역할
+# 오픈소스소프트웨어 팀 과제
+## 목표
+- 오픈소스소프트웨어 보고서 작성
+## 주제
+- 오픈소스소프트웨어 개발을 위한 효과적인 원격 저장소 구축 방법
+## 팀 구성
+|<a href="https://github.com/kbs-kbs/2024-OSS-Group-Project/graphs/contributors"><img src="https://contrib.rocks/image?repo=kbs-kbs/kbs-kbs"/></a>|||||                                         
+|:---:|:---:|:---:|:---:|:---:|
+|[@kbs-kbs](https://github.com/kbs-kbs)|||||
 ## 프로젝트 기간
+2024.11.11 ~ 2024.12.06
 ## 목차
 - [배경](#배경)
 - [목적](#목적)
@@ -11,18 +18,6 @@
 ## 소개
 
 프로젝트에 대한 자세한 설명을 여기에 작성합니다. 프로젝트의 목적, 기능, 주요 특징 등을 포함할 수 있습니다.
-
-### 팀 구성
-
-|프로젝트 매니저|개발|개발|문서화|문서화|                                            
-|:---:|:---:|:---:|:---:|:---:|
-|<a href="https://github.com/kbs-kbs/2024-OSS-Group-Project/graphs/contributors"><img src="https://contrib.rocks/image?repo=kbs-kbs/kbs-kbs"/></a>|||||
-|[@kbs-kbs](https://github.com/kbs-kbs)|||||
-
-
-### 프로젝트 기간
-
-2024.11.11 ~ 2024.12.06
 
 ### 주요 기능 📦
 
