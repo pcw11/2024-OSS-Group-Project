@@ -44,7 +44,7 @@ git clone https://github.com/kbs-kbs/2024-OSS-Group-Project.git
 
 ## 기여 방법
 
-프로젝트에 기여하려면 GitHub Wiki의 [기여 가이드라인](https://github.com/kbs-kbs/2024-OSS-Group-Project/wiki/How-To-Contribute)을 참고해 주세요.
+프로젝트에 기여하려면 GitHub Wiki의 [기여 가이드라인](https://github.com/kbs-kbs/2024-OSS-Group-Project/wiki/%EA%B8%B0%EC%97%AC-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8)을 참고해 주세요.
 
 ## 라이선스
 
