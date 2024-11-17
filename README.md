@@ -87,20 +87,15 @@
 
 ## 설치
 
-프로젝트를 설치하는 방법을 설명합니다. 예를 들어, 필요한 의존성 설치와 관련된 명령어를 포함할 수 있습니다.
+프로젝트를 로컬 환경에 설치하려면 깃을 실행한 뒤 다음 명령어를 입력합니다:
 
 ```bash
-git clone https://github.com/사용자명/프로젝트명.git
+git clone https://github.com/kbs-kbs/2024-OSS-Group-Project.git
 ```
 
-
 ## 기여 방법
-프로젝트에 기여하는 방법을 설명합니다. 기여 가이드라인, 코드 스타일, 풀 리퀘스트(PR) 절차 등을 포함할 수 있습니다.
 
-자세한 
-### 가이드라인
-
-- [깃허브 위키](https://github.com/kbs-kbs/2024-OSS-Group-Project/wiki/How-To-Contribute)
+프로젝트에 기여하려면 GitHub wiki의 [기여 가이드라인](https://github.com/kbs-kbs/2024-OSS-Group-Project/wiki/How-To-Contribute)을 참고해 주시기 바랍니다.
 
 ## 라이선스
 - MIT License
