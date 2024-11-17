@@ -48,4 +48,4 @@ git clone https://github.com/kbs-kbs/2024-OSS-Group-Project.git
 
 ## 라이선스
 
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](https://github.com/kbs-kbs/2024-OSS-Group-Project/LICENSE) 파일을 참고해 주세요.
+이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/LICENSE) 파일을 참고해 주세요.
