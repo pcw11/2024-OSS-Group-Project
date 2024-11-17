@@ -47,4 +47,5 @@ git clone https://github.com/kbs-kbs/2024-OSS-Group-Project.git
 프로젝트에 기여하려면 GitHub Wiki의 [기여 가이드라인](https://github.com/kbs-kbs/2024-OSS-Group-Project/wiki/How-To-Contribute)을 참고해 주세요.
 
 ## 라이선스
-- MIT License
+
+이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](https://github.com/kbs-kbs/2024-OSS-Group-Project/LICENSE) 파일을 참고해 주세요.
