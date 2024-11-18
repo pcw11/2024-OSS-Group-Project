@@ -29,26 +29,28 @@
 
 ```bash
 2024-OSS-Group-Project/
+├── .github/
+    └── ISSUE_TEMPLATE/
 ├── README.md
 ├── 01. 오픈소스소프트웨어 개요.md
 ├── 02. 오픈소스소프트웨어 발전 과정.md
 ├── 03. 오픈소스소프트웨어 특징.md
 ├── 04. 오픈소스소프트웨어 구축 사례.md
 ├── 05. 효과적인 오픈소스소프트웨어 구축 방법.md
-└── assets/
+├── 04-case-studies/
+├── assets/
     └── images/
-├── LICENSE
-└── .github/
-    └── ISSUE_TEMPLATE/
+└── LICENSE
 ```
 
-
 - `2024-OSS-Group-Project/`: 프로젝트의 루트 디렉토리입니다.
+- `.github/`: 깃허브에서 사용되는 파일들입니다.
+  - `ISSUE_TEMPLATE/`: 깃허브 이슈를 작성하기 위해 미리 만들어 놓은 마크다운 파일들입니다.
+- `04-case-studies/`: "04. 오픈소스소프트웨어 구축 사례"에 들어갈 오픈소스소프트웨어 각각의 마크다운 파일들입니다.
 - `assets/`: 마크다운 파일 작성에 필요한 리소스들입니다.
   - `images/`: 마크다운 파일 작성에 필요한 이미지들입니다.
 - `LICENSE`: 프로젝트의 라이선스입니다.
-- `.github/`: 깃허브에서 사용되는 파일들입니다.
-  - `ISSUE_TEMPLATE/`: 깃허브 이슈를 작성하기 위해 미리 만들어 놓은 마크다운 파일들입니다.
+
 
 ## 설치 방법
 
