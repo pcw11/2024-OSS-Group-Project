@@ -13,15 +13,20 @@
 - 2024-11-11 ~ 2024-12-06
 
 ## 프로젝트 살펴보기
-1. [오픈소스소프트웨어 개요](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/01.%20오픈소스소프트웨어%20개요.md)
-2. [오픈소스소프트웨어 발전 과정](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/02.%20오픈소스소프트웨어%20발전%20과정.md)
-3. [오픈소스소프트웨어 특징](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/03.%20오픈소스소프트웨어%20특징.md)
-4. [오픈소스소프트웨어 구축 사례](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/04.%20오픈소스소프트웨어%20구축%20사례.md)
-5. [결론](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/05.%20결론.md)
+1. [링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/01.%20오픈소스소프트웨어%20개요.md)
+2. [링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/02.%20오픈소스소프트웨어%20발전%20과정.md)
+3. [링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/03.%20오픈소스소프트웨어%20특징.md)
+4. [링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/04.%20오픈소스소프트웨어%20구축%20사례.md)
+5. [링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/05.%20결론.md)
 
 |목차|제목|링크|
 |---|---|---|
-|1|||
+|01|오픈소스소프트웨어 개요|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/01.%20오픈소스소프트웨어%20개요.md)|
+|02|오픈소스소프트웨어 발전 과정|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/02.%20오픈소스소프트웨어%20발전%20과정.md)|
+|03|오픈소스소프트웨어 특징|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/03.%20오픈소스소프트웨어%20특징.md)|
+|04|오픈소스소프트웨어 구축 사례|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/04.%20오픈소스소프트웨어%20구축%20사례.md)|
+|05|효과적인 오픈소스소프트웨어 구축 방법|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/05.%20결론.md)|
+
 
 
 ## 리포지토리 구조
