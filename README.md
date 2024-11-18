@@ -25,7 +25,7 @@
 |02|오픈소스소프트웨어 발전 과정|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/02.%20오픈소스소프트웨어%20발전%20과정.md)|
 |03|오픈소스소프트웨어 특징|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/03.%20오픈소스소프트웨어%20특징.md)|
 |04|오픈소스소프트웨어 구축 사례|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/04.%20오픈소스소프트웨어%20구축%20사례.md)|
-|05|효과적인 오픈소스소프트웨어 구축 방법|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/05.%20결론.md)|
+|05|효과적인 오픈소스소프트웨어 구축 방법|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/05.%20효과적인%20오픈소스소프트웨어%20구축%20방법.md)|
 
 
 
@@ -38,7 +38,7 @@
 ├── 02. 오픈소스소프트웨어 발전 과정.md
 ├── 03. 오픈소스소프트웨어 특징.md
 ├── 04. 오픈소스소프트웨어 구축 사례.md
-├── 05. 결론.md
+├── 05. 효과적인 오픈소스소프트웨어 구축 방법.md
 └── assets/
     └── images/
 └── LICENSE
