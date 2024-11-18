@@ -14,8 +14,8 @@
 
 ## 프로젝트 보기
 1. [오픈소스소프트웨어 개요](01_Introduction.md)
-2. [발전 과정](02_Development_History.md)
-3. [라이선스](03_Licenses.md)
+2. [오픈소스소프트웨어 발전 과정](02_Development_History.md)
+3. [오픈소스소프트웨어 특징](03_Licenses.md)
 4. [구축 사례](04_Case_Studies.md)
 5. [결론](05_Conclusion.md)
 
@@ -25,13 +25,14 @@
 ```bash
 2024-OSS-Group-Project/
 ├── README.md
-├── 01_Introduction.md
-├── 02_Development_History.md
-├── 03_Licenses.md
-├── 04_Case_Studies.md
-├── 05_Conclusion.md
+├── 01. 오픈소스소프트웨어 개요.md
+├── 02. 오픈소스소프트웨어 발전 과정.md
+├── 03. 오픈소스소프트웨어 특징.md
+├── 04. 오픈소스소프트웨어 구축 사례.md
+├── 05. 결론.md
 └── assets/
     └── images/
+└── LISENCE
 ```
 
 ## 설치 방법
