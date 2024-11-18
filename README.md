@@ -32,7 +32,7 @@
 ├── 05. 결론.md
 └── assets/
     └── images/
-└── LISENCE
+└── LICENSE
 ```
 
 ## 설치 방법
