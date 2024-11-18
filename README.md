@@ -4,6 +4,7 @@
 |<a href="https://github.com/kbs-kbs/2024-OSS-Group-Project/graphs/contributors"><img src="https://contrib.rocks/image?repo=kbs-kbs/kbs-kbs"/></a>||||| 
 |:---:|:---:|:---:|:---:|:---:|
 |[@kbs-kbs](https://github.com/kbs-kbs)|||||
+
 ## 프로젝트 소개
 ### 제목
 - 오픈소스소프트웨어 개발을 위한 효과적인 원격 저장소 구축 방법
@@ -13,11 +14,6 @@
 - 2024-11-11 ~ 2024-12-06
 
 ## 프로젝트 살펴보기
-1. [링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/01.%20오픈소스소프트웨어%20개요.md)
-2. [링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/02.%20오픈소스소프트웨어%20발전%20과정.md)
-3. [링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/03.%20오픈소스소프트웨어%20특징.md)
-4. [링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/04.%20오픈소스소프트웨어%20구축%20사례.md)
-5. [링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/05.%20결론.md)
 
 |목차|제목|링크|
 |---|---|---|
