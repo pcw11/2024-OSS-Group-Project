@@ -15,7 +15,7 @@
 
 ## 프로젝트 살펴보기
 
-|목차|제목|링크|
+|목차|소제목|링크|
 |---|---|---|
 |01|오픈소스소프트웨어 개요|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/01.%20오픈소스소프트웨어%20개요.md)|
 |02|오픈소스소프트웨어 발전 과정|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/02.%20오픈소스소프트웨어%20발전%20과정.md)|
