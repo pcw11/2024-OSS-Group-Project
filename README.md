@@ -12,12 +12,16 @@
 ### 프로젝트 기간
 - 2024-11-11 ~ 2024-12-06
 
-## 프로젝트 보기
-1. [오픈소스소프트웨어 개요](01_Introduction.md)
+## 프로젝트 살펴보기
+1. [오픈소스소프트웨어 개요](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/01.%오픈소스소프트웨어%개요%.md)
 2. [오픈소스소프트웨어 발전 과정](02_Development_History.md)
 3. [오픈소스소프트웨어 특징](03_Licenses.md)
 4. [구축 사례](04_Case_Studies.md)
 5. [결론](05_Conclusion.md)
+
+|목차|||
+|---|---|---|
+|1|||
 
 
 ## 리포지토리 구조
