@@ -31,15 +31,15 @@
 2024-OSS-Group-Project/
 ├── .github/
     └── ISSUE_TEMPLATE/
-├── README.md
+├── assets/
+    └── images/
+├── 04-case-studies/
 ├── 01. 오픈소스소프트웨어 개요.md
 ├── 02. 오픈소스소프트웨어 발전 과정.md
 ├── 03. 오픈소스소프트웨어 특징.md
 ├── 04. 오픈소스소프트웨어 구축 사례.md
 ├── 05. 효과적인 오픈소스소프트웨어 구축 방법.md
-├── 04-case-studies/
-├── assets/
-    └── images/
+├── README.md
 └── LICENSE
 ```
 
