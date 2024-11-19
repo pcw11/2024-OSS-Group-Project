@@ -31,9 +31,9 @@
 2024-OSS-Group-Project/
 ├── .github/
     └── ISSUE_TEMPLATE/
+├── 04-case-studies/
 ├── assets/
     └── images/
-├── 04-case-studies/
 ├── 01. 오픈소스소프트웨어 개요.md
 ├── 02. 오픈소스소프트웨어 발전 과정.md
 ├── 03. 오픈소스소프트웨어 특징.md
