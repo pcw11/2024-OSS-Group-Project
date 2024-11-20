@@ -1,2 +1,7 @@
 에셋:
-  - "assets/**/*"
+- changed-files:
+  - any-glob-to-any-file: 'assets/**/*'
+
+문서화:
+- changed-files:
+  - any-glob-to-any-file: '**/*.md'
