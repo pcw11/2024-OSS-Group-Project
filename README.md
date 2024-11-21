@@ -2,6 +2,8 @@
 ## 팀 - 오소소
 ### 구성원
 
+![Lichtenstein](https://wsrv.nl/?url=https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/85246e932fba7a1e7d01d609b82782cb344986fa/assets/images/%EA%B3%A0%EC%96%91%EC%9D%B4.png&w=300&h=300&fit=cover&mask=circle&maxage=7d)
+
 |<a href="https://github.com/kbs-kbs/2024-OSS-Group-Project/graphs/contributors"><img src="https://wsrv.nl/?url=https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/assets/images/고양이.png&w=300&h=300"></a>||||| 
 |:---:|:---:|:---:|:---:|:---:|
 |[@kbs-kbs](https://github.com/kbs-kbs)|||||
