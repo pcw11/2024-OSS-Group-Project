@@ -2,11 +2,11 @@
 ## 팀 - 오소소
 ### 구성원
 
-![Lichtenstein](https://wsrv.nl/?url=https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/85246e932fba7a1e7d01d609b82782cb344986fa/assets/images/%EA%B3%A0%EC%96%91%EC%9D%B4.png&w=300&h=300&fit=cover&mask=circle&maxage=7d)
 
-|<a href="https://github.com/kbs-kbs/2024-OSS-Group-Project/graphs/contributors"><img src="https://wsrv.nl/?url=https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/assets/images/고양이.png&w=300&h=300"></a>||||| 
+
+|![@kbs-kbs](https://wsrv.nl/?url=avatars.githubusercontent.com/kbs-kbs&w=100&h=100&fit=cover&mask=circle)|![@sjunc](https://wsrv.nl/?url=avatars.githubusercontent.com/sjunc&w=100&h=100&fit=cover&mask=circle)|![@jungsh20241509](https://wsrv.nl/?url=avatars.githubusercontent.com/jungsh20241509&w=100&h=100&fit=cover&mask=circle)|![@pcw11](https://wsrv.nl/?url=avatars.githubusercontent.com/pcw11&w=100&h=100&fit=cover&mask=circle)|![@MoonHwitae](https://wsrv.nl/?url=avatars.githubusercontent.com/MoonHwitae&w=100&h=100&fit=cover&mask=circle)| 
 |:---:|:---:|:---:|:---:|:---:|
-|[@kbs-kbs](https://github.com/kbs-kbs)|||||
+|[kbs-kbs](https://github.com/kbs-kbs)|[sjunc](https://github.com/sjunc)|[jungsh20241509](https://github.com/jungsh20241509)|[pcw11](https://github.com/pcw11)|[MoonHwitae](https://github.com/MoonHwitae)|
 
 ## 프로젝트 소개
 ### 제목
