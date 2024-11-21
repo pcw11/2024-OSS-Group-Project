@@ -65,10 +65,10 @@
 |목차|소제목|링크|
 |---|---|---|
 |01|오픈소스소프트웨어 개요|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/01.%20오픈소스소프트웨어%20개요.md)|
-|02|오픈소스소프트웨어 발전 과정|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/02.%20오픈소스소프트웨어%20발전%20과정.md)|
-|03|오픈소스소프트웨어 특징|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/03.%20오픈소스소프트웨어%20특징.md)|
-|04|오픈소스소프트웨어 구축 사례|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/04.%20오픈소스소프트웨어%20구축%20사례.md)|
-|05|효과적인 오픈소스소프트웨어 구축 방법|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/05.%20효과적인%20오픈소스소프트웨어%20구축%20방법.md)|
+|02|오픈소스 개발 도구와 환경 설정|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/02.%20오픈소스소프트웨어%20발전%20과정.md)|
+|03|깃허브 프로젝트 기여 방법|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/03.%20오픈소스소프트웨어%20특징.md)|
+|04|깃허브 프로젝트 생성 및 관리|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/04.%20오픈소스소프트웨어%20구축%20사례.md)|
+|05|여러 깃허브 프로젝트 분석 및 제언|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/05.%20효과적인%20오픈소스소프트웨어%20구축%20방법.md)|
 
 
 
@@ -78,6 +78,8 @@
 2024-OSS-Group-Project/
 ├── .github/
     └── ISSUE_TEMPLATE/
+    └── workflows/
+    └── ...
 ├── 05-case-studies/
 ├── assets/
     └── images/
