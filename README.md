@@ -1,6 +1,17 @@
 ## 과제 - 오픈소스소프트웨어 개발을 위한 효과적인 원격 저장소 구축 방법
 ## 팀 소개
-### 팀 - 오소소
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/da25ae8ae48a6631a54f0233c4ae09993e2c46ea/assets/images/%EC%8B%AC%ED%94%8C%ED%95%98%EA%B3%A0%20%EB%B3%BC%EB%93%9C%ED%95%9C%20%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81%EC%9D%B8%20%EC%98%A4%EC%86%8C%EB%A6%AC%20%EB%A1%9C%EA%B3%A0.png" alt="오소소 로고" width="200" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>오소소</b>
+    </td>
+  </tr>
+</table>
 
 ### 구성원
 |![@kbs-kbs](https://wsrv.nl/?url=avatars.githubusercontent.com/kbs-kbs&w=100&h=100&fit=cover&mask=circle)|![@sjunc](https://wsrv.nl/?url=avatars.githubusercontent.com/sjunc&w=100&h=100&fit=cover&mask=circle)|![@jungsh20241509](https://wsrv.nl/?url=avatars.githubusercontent.com/jungsh20241509&w=100&h=100&fit=cover&mask=circle)|![@pcw11](https://wsrv.nl/?url=avatars.githubusercontent.com/pcw11&w=100&h=100&fit=cover&mask=circle)|![@MoonHwitae](https://wsrv.nl/?url=avatars.githubusercontent.com/MoonHwitae&w=100&h=100&fit=cover&mask=circle)| 
