@@ -1,7 +1,8 @@
 # 오픈소스소프트웨어 팀 과제
 ## 팀 - 오소소
 ### 구성원
-|<a href="https://github.com/kbs-kbs/2024-OSS-Group-Project/graphs/contributors"><img src="https://contrib.rocks/image?repo=kbs-kbs/kbs-kbs"/></a>||||| 
+
+|<a href="https://github.com/kbs-kbs/2024-OSS-Group-Project/graphs/contributors"><img src="https://wsrv.nl/?url=https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/assets/images/고양이.png&w=300&h=300"></a>||||| 
 |:---:|:---:|:---:|:---:|:---:|
 |[@kbs-kbs](https://github.com/kbs-kbs)|||||
 
