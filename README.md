@@ -63,10 +63,10 @@
 |목차|소제목|링크|
 |---|---|---|
 |01|오픈소스소프트웨어 개요|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/01.%20오픈소스소프트웨어%20개요.md)|
-|02|오픈소스 개발 도구와 환경 설정|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/02.%20오픈소스소프트웨어%20발전%20과정.md)|
-|03|깃허브 프로젝트 기여 방법|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/03.%20오픈소스소프트웨어%20특징.md)|
-|04|깃허브 프로젝트 생성 및 관리|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/04.%20오픈소스소프트웨어%20구축%20사례.md)|
-|05|여러 깃허브 프로젝트 분석 및 제언|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/05.%20효과적인%20오픈소스소프트웨어%20구축%20방법.md)|
+|02|오픈소스 개발 도구와 환경 설정|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/02.%20오픈소스%20개발%20도구와%20환경%20설정.md)|
+|03|깃허브 프로젝트 기여 방법|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/03.%20깃허브%20프로젝트%20기여%20방법.md)|
+|04|깃허브 프로젝트 생성 및 관리|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/04.%20깃허브%20프로젝트%20생성%20및%20관리.md)|
+|05|여러 깃허브 프로젝트 분석 및 제언|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/05.%20여러%20깃허브%20프로젝트%20분석%20및%20제언.md)|
 
 
 
@@ -109,7 +109,7 @@ git clone https://github.com/kbs-kbs/2024-OSS-Group-Project.git
 
 ## 기여 방법
 
-프로젝트에 기여하려면 GitHub Wiki의 [기여 가이드라인](https://github.com/kbs-kbs/2024-OSS-Group-Project/wiki/%EA%B8%B0%EC%97%AC-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8)을 참고해 주세요.
+프로젝트에 기여하려면 GitHub Wiki의 [기여 파이프라인](https://github.com/kbs-kbs/2024-OSS-Group-Project/wiki/%EA%B8%B0%EC%97%AC-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8)을 참고해 주세요.
 
 ## 라이선스
 
