@@ -79,6 +79,9 @@
     └── workflows/
     └── ...
 ├── 05-case-studies/
+    └── 깃허브 프로젝트 TensorFlow 분석.md
+    └── 깃허브 프로젝트 React 분석.md
+    └── 깃허브 프로젝트 Linux Kernel 분석.md
 ├── assets/
     └── images/
 ├── 01. 오픈소스소프트웨어 개요.md
