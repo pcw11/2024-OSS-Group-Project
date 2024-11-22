@@ -52,7 +52,7 @@
 
 - **GitHub Wiki**: 깃허브 위키를 통해 프로젝트의 개요, 추진 일정, 협업 규칙 등을 문서화합니다.
 - **GitHub Projects**: 깃허브의 프로젝트 보드를 사용하여 작업 항목을 시각적으로 관리하고 추적합니다. 칸반 보드를 통해 작업 상태를 쉽게 파악하고, 팀원 간의 협업을 촉진합니다.
-- **GitHub MileStones**: 프로젝트의 주요 목표와 일정을 관리하기 위해 마일스톤을 사용합니다. 각 마일스톤은 특정 기간 내에 달성해야 할 목표를 정의합니다.
+- **GitHub Milestones**: 프로젝트의 주요 목표와 일정을 관리하기 위해 마일스톤을 사용합니다. 각 마일스톤은 특정 기간 내에 달성해야 할 목표를 정의합니다.
 - **GitHub Issues**: 이슈를 통해 작업을 관리합니다. 버그, 기능 요청, 개선 사항 등을 관리하기 위해 GitHub 이슈를 사용합니다. 이슈 템플릿을 사용하여 이슈를 체계적으로 작성하고, 라벨을 통해 우선순위를 설정합니다.깃
 - **GitHub Actions**: 깃허브 액션을 사용하여 풀 리퀘스트가 생성될 때 자동으로 라벨링하여 반복적인 작업을 줄이고 이슈와 풀 리퀘스트를 체계적으로 관리합니다.
 
@@ -75,13 +75,13 @@
 ```bash
 2024-OSS-Group-Project/
 ├── .github/
-    └── ISSUE_TEMPLATE/
-    └── workflows/
+    ├── ISSUE_TEMPLATE/
+    ├── workflows/
     └── ...
 ├── 05-case-studies/
+    ├── 깃허브 프로젝트 Linux Kernel 분석.md
+    ├── 깃허브 프로젝트 React 분석.md
     └── 깃허브 프로젝트 TensorFlow 분석.md
-    └── 깃허브 프로젝트 React 분석.md
-    └── 깃허브 프로젝트 Linux Kernel 분석.md
 ├── assets/
     └── images/
 ├── 01. 오픈소스소프트웨어 개요.md
@@ -112,7 +112,7 @@ git clone https://github.com/kbs-kbs/2024-OSS-Group-Project.git
 
 ## 기여 방법
 
-프로젝트에 기여하려면 GitHub Wiki의 [기여 파이프라인](https://github.com/kbs-kbs/2024-OSS-Group-Project/wiki/%EA%B8%B0%EC%97%AC-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8)을 참고해 주세요.
+프로젝트에 기여하려면 GitHub Wiki의 [기여 파이프라인](https://github.com/kbs-kbs/2024-OSS-Group-Project/wiki/협업-규칙#기여-파이프라인)을 참고해 주세요.
 
 ## 라이선스
 
