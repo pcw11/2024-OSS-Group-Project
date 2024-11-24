@@ -94,32 +94,25 @@
   </tr>
   <tr>
     <td align="center">kbs-kbs</td>
-    <td colspan="5" align="center">프로젝트 계획 수립</td>
-    <td colspan="21" align="center">협업 규칙 수립</td>
+    <td colspan="2" rowspan="5" align="center">주제 논의</td>
+    <td colspan="9" align="center">1. 리포지토리 구조 설계<br>2. README.md 초안 작성</td>
+    <td colspan="6" align="center">위키 초안 작성</td>
+    <td colspan="12" align="center">1. README.md 작성 및 검토<br>2. 위키 작성 및 검토</td>
   </tr>
   <tr>
     <td align="center">sjunc</td>
-    <td colspan="2" align="center"></td>
-    <td colspan="5" align="center">개발 환경 설정</td>
-    <td colspan="19" align="center">자동화 설정</td>
+    <td colspan="9" rowspan="4" align="center">협업 파이프라인 구축</td>
+    <td colspan="6" rowspan="4" align="center">보고서 초안 작성</td>
+    <td colspan="12" rowspan="4" align="center">보고서 작성 및 검토</td>
   </tr>
   <tr>
     <td align="center">jungsh20241509</td>
-    <td colspan="7" align="center"></td>
-    <td colspan="5" align="center">자료 조사</td>
-    <td colspan="14" align="center">보고서 작성 및 검토</td>
   </tr>
   <tr>
     <td align="center">pcw11</td>
-    <td colspan="12" align="center"></td>
-    <td colspan="5" align="center">README.md 문서화</td>
-    <td colspan="9" align="center">최종 보고서 제출</td>
   </tr>
   <tr>
     <td align="center">MoonHwitae</td>
-    <td colspan="17" align="center"></td>
-    <td colspan="5" align="center">위키 작성</td>
-    <td colspan="4" align="center"></td>
   </tr>
 </table>
 
