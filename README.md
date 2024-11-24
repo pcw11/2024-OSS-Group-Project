@@ -101,7 +101,7 @@
   </tr>
   <tr>
     <td align="center">sjunc</td>
-    <td colspan="9" rowspan="4" align="center">협업 파이프라인 구축</td>
+    <td colspan="9" rowspan="4" align="center">협업 파이프라인 설계</td>
     <td colspan="6" rowspan="4" align="center">보고서 초안 작성</td>
     <td colspan="12" rowspan="4" align="center">보고서 작성 및 검토</td>
   </tr>
