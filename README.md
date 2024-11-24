@@ -18,6 +18,18 @@
 |:---:|:---:|:---:|:---:|:---:|
 |[kbs-kbs](https://github.com/kbs-kbs)|[sjunc](https://github.com/sjunc)|[jungsh20241509](https://github.com/jungsh20241509)|[pcw11](https://github.com/pcw11)|[MoonHwitae](https://github.com/MoonHwitae)|
 
+## 프로젝트 살펴보기
+
+|목차|소제목|링크|
+|---|---|---|
+|01|오픈소스소프트웨어 개요|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/01.%20오픈소스소프트웨어%20개요.md)|
+|02|오픈소스 개발 도구와 환경 설정|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/02.%20오픈소스%20개발%20도구와%20환경%20설정.md)|
+|03|깃허브 프로젝트 기여 방법|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/03.%20깃허브%20프로젝트%20기여%20방법.md)|
+|04|깃허브 프로젝트 생성 및 관리|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/04.%20깃허브%20프로젝트%20생성%20및%20관리.md)|
+|05|여러 깃허브 프로젝트 분석 및 제언|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/05.%20여러%20깃허브%20프로젝트%20분석%20및%20제언.md)|
+
+
+
 ## 프로젝트 소개
 ### 배경
 오픈소스 프로젝트는 다양한 배경과 경험을 가진 개발자들이 협력하여 소프트웨어를 빠르고 효율적으로 개발할 수 있는 기회를 제공합니다. 그러나 기여자들이 오픈소스 개발에 대한 충분한 이해를 갖추지 못하거나, 관리자가 기여자들이 쉽게 참여할 수 있는 환경을 조성하지 못한다면, 기여율은 저조해지고 프로젝트는 관성을 잃어버리게 됩니다. 따라서 오픈소스를 개발하기 위해서는 협업에 필요한 개념과 기술을 이해하는 것이 중요합니다.
@@ -50,77 +62,67 @@
 - **GitHub Actions**: 깃허브 액션을 사용하여 풀 리퀘스트가 생성될 때 자동으로 라벨링하여 반복적인 작업을 줄이고 이슈와 풀 리퀘스트를 체계적으로 관리합니다.
 
 ## 프로젝트 추진 일정
-<table border="1" cellspacing="0" cellpadding="5" align="center">
+<table>
   <tr>
     <th>담당자</th>
-    <th>11월 11일</th>
-    <th>11월 12일</th>
-    <th>11월 13일</th>
-    <th>11월 14일</th>
-    <th>11월 15일</th>
-    <th>11월 16일</th>
-    <th>11월 17일</th>
-    <th>11월 18일</th>
-    <th>11월 19일</th>
-    <th>11월 20일</th>
-    <th>11월 21일</th>
-    <th>11월 22일</th>
-    <th>11월 23일</th>
-    <th>11월 24일</th>
-    <th>11월 25일</th>
-    <th>11월 26일</th>
-    <th>11월 27일</th>
-    <th>11월 28일</th>
-    <th>11월 29일</th>
-    <th>11월 30일</th>
-    <th>12월 1일</th>
-    <th>12월 2일</th>
-    <th>12월 3일</th>
-    <th>12월 4일</th>
-    <th>12월 5일</th>
-    <th>12월 6일</th>
+    <th>11/11 (월)</th>
+    <th>11/12 (화)</th>
+    <th>11/13 (수)</th>
+    <th>11/14 (목)</th>
+    <th>11/15 (금)</th>
+    <th>11/16 (토)</th>
+    <th>11/17 (일)</th>
+    <th>11/18 (월)</th> 
+    <th>11/19 (화)</th>
+    <th>11/20 (수)</th>
+    <th>11/21 (목)</th>
+    <th>11/22 (금)</th>
+    <th>11/23 (토)</th>
+    <th>11/24 (일)</th>
+    <th>11/25 (월)</th>
+    <th>11/26 (화)</th>
+    <th>11/27 (수)</th>
+    <th>11/28 (목)</th>
+    <th>11/29 (금)</th>
+    <th>11/30 (토)</th>
+    <th>12/01 (일)</th>
+    <th>12/02 (월)</th>
+    <th>12/03 (화)</th>
+    <th>12/04 (수)</th>
+    <th>12/05 (목)</th>
+    <th>12/06 (금)</th>
   </tr>
   <tr>
-    <td>담당자 1</td>
-    <td colspan="5">프로젝트 계획 수립</td>
-    <td colspan="21">협업 규칙 수립</td>
+    <td align="center">kbs-kbs</td>
+    <td colspan="5" align="center">프로젝트 계획 수립</td>
+    <td colspan="21" align="center">협업 규칙 수립</td>
   </tr>
   <tr>
-    <td>담당자 2</td>
-    <td colspan="2"></td>
-    <td colspan="5">개발 환경 설정</td>
-    <td colspan="19">자동화 설정</td>
+    <td align="center">sjunc</td>
+    <td colspan="2" align="center"></td>
+    <td colspan="5" align="center">개발 환경 설정</td>
+    <td colspan="19" align="center">자동화 설정</td>
   </tr>
   <tr>
-    <td>담당자 3</td>
-    <td colspan="7"></td>
-    <td colspan="5">자료 조사</td>
-    <td colspan="14">보고서 작성 및 검토</td>
+    <td align="center">jungsh20241509</td>
+    <td colspan="7" align="center"></td>
+    <td colspan="5" align="center">자료 조사</td>
+    <td colspan="14" align="center">보고서 작성 및 검토</td>
   </tr>
   <tr>
-    <td>담당자 4</td>
-    <td colspan="12"></td>
-    <td colspan="5">README.md 문서화</td>
-    <td colspan="9">최종 보고서 제출</td>
+    <td align="center">pcw11</td>
+    <td colspan="12" align="center"></td>
+    <td colspan="5" align="center">README.md 문서화</td>
+    <td colspan="9" align="center">최종 보고서 제출</td>
   </tr>
   <tr>
-    <td>담당자 5</td>
-    <td colspan="17"></td>
-    <td colspan="5">위키 작성</td>
-    <td colspan="4"></td>
+    <td align="center">MoonHwitae</td>
+    <td colspan="17" align="center"></td>
+    <td colspan="5" align="center">위키 작성</td>
+    <td colspan="4" align="center"></td>
   </tr>
 </table>
 
-
-## 프로젝트 살펴보기
-
-|목차|소제목|링크|
-|---|---|---|
-|01|오픈소스소프트웨어 개요|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/01.%20오픈소스소프트웨어%20개요.md)|
-|02|오픈소스 개발 도구와 환경 설정|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/02.%20오픈소스%20개발%20도구와%20환경%20설정.md)|
-|03|깃허브 프로젝트 기여 방법|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/03.%20깃허브%20프로젝트%20기여%20방법.md)|
-|04|깃허브 프로젝트 생성 및 관리|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/04.%20깃허브%20프로젝트%20생성%20및%20관리.md)|
-|05|여러 깃허브 프로젝트 분석 및 제언|[링크](https://github.com/kbs-kbs/2024-OSS-Group-Project/blob/main/05.%20여러%20깃허브%20프로젝트%20분석%20및%20제언.md)|
 
 
 
