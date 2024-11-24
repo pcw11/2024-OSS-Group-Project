@@ -50,71 +50,64 @@
 - **GitHub Actions**: 깃허브 액션을 사용하여 풀 리퀘스트가 생성될 때 자동으로 라벨링하여 반복적인 작업을 줄이고 이슈와 풀 리퀘스트를 체계적으로 관리합니다.
 
 ## 프로젝트 추진 일정
-
 <table border="1" cellspacing="0" cellpadding="5" align="center">
   <tr>
-    <th>단계</th>
-    <th>2024-11-11 ~ 2024-11-15</th>
-    <th>2024-11-16 ~ 2024-11-20</th>
-    <th>2024-11-21 ~ 2024-11-25</th>
-    <th>2024-11-26 ~ 2024-11-30</th>
-    <th>2024-12-01 ~ 2024-12-05</th>
-    <th>2024-12-06 ~ 2024-12-10</th>
-    <th>2024-12-11 ~ 2024-12-15</th>
-    <th>2024-12-16 ~ 2024-12-20</th>
-    <th>2024-12-21 ~ 2024-12-22</th>
+    <th>담당자</th>
+    <th>11월 11일</th>
+    <th>11월 12일</th>
+    <th>11월 13일</th>
+    <th>11월 14일</th>
+    <th>11월 15일</th>
+    <th>11월 16일</th>
+    <th>11월 17일</th>
+    <th>11월 18일</th>
+    <th>11월 19일</th>
+    <th>11월 20일</th>
+    <th>11월 21일</th>
+    <th>11월 22일</th>
+    <th>11월 23일</th>
+    <th>11월 24일</th>
+    <th>11월 25일</th>
+    <th>11월 26일</th>
+    <th>11월 27일</th>
+    <th>11월 28일</th>
+    <th>11월 29일</th>
+    <th>11월 30일</th>
+    <th>12월 1일</th>
+    <th>12월 2일</th>
+    <th>12월 3일</th>
+    <th>12월 4일</th>
+    <th>12월 5일</th>
+    <th>12월 6일</th>
   </tr>
   <tr>
-    <td>프로젝트 계획 수립</td>
-    <td colspan="1">프로젝트 목표 설정, 팀 구성, 역할 분담</td>
-    <td colspan="7"></td>
+    <td>담당자 1</td>
+    <td colspan="5">프로젝트 계획 수립</td>
+    <td colspan="21">협업 규칙 수립</td>
   </tr>
   <tr>
-    <td>개발 환경 설정</td>
-    <td></td>
-    <td colspan="1">Git 및 GitHub 설정, IDE 설치 및 설정, 빌드 도구 설정</td>
-    <td colspan="7"></td>
-  </tr>
-  <tr>
-    <td>자료 조사</td>
+    <td>담당자 2</td>
     <td colspan="2"></td>
-    <td colspan="1">오픈소스 소프트웨어 개념, 기술, 사례 조사</td>
-    <td colspan="6"></td>
+    <td colspan="5">개발 환경 설정</td>
+    <td colspan="19">자동화 설정</td>
   </tr>
   <tr>
-    <td>README.md 문서화</td>
-    <td colspan="3"></td>
-    <td colspan="1">프로젝트 개요, 설치 방법, 사용법 등을 포함한 README.md 작성</td>
-    <td colspan="5"></td>
-  </tr>
-  <tr>
-    <td>위키 작성</td>
-    <td colspan="4"></td>
-    <td colspan="1">프로젝트의 상세 설명, 협업 규칙, 기여 가이드라인 등을 포함한 위키 작성</td>
-    <td colspan="4"></td>
-  </tr>
-  <tr>
-    <td>협업 규칙 수립</td>
-    <td colspan="5"></td>
-    <td colspan="1">풀 리퀘스트 태그 설정, 코드 리뷰 절차, 커뮤니케이션 방법 등 협업 규칙 수립</td>
-    <td colspan="3"></td>
-  </tr>
-  <tr>
-    <td>자동화 설정</td>
-    <td colspan="6"></td>
-    <td colspan="1">CI/CD 설정, 자동화 스크립트 작성 및 테스트</td>
-    <td colspan="2"></td>
-  </tr>
-  <tr>
-    <td>보고서 작성 및 검토</td>
+    <td>담당자 3</td>
     <td colspan="7"></td>
-    <td colspan="1">보고서 작성, 팀원 간 검토 및 피드백 반영</td>
-    <td colspan="1"></td>
+    <td colspan="5">자료 조사</td>
+    <td colspan="14">보고서 작성 및 검토</td>
   </tr>
   <tr>
-    <td>최종 보고서 제출</td>
-    <td colspan="8"></td>
-    <td colspan="1">최종 보고서 제출 및 프로젝트 마무리</td>
+    <td>담당자 4</td>
+    <td colspan="12"></td>
+    <td colspan="5">README.md 문서화</td>
+    <td colspan="9">최종 보고서 제출</td>
+  </tr>
+  <tr>
+    <td>담당자 5</td>
+    <td colspan="17"></td>
+    <td colspan="5">위키 작성</td>
+    <td colspan="4"></td>
   </tr>
 </table>
 
