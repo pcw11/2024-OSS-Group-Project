@@ -14,10 +14,10 @@
 </table>
 
 ### 구성원
-|![@kbs-kbs](https://wsrv.nl/?url=avatars.githubusercontent.com/kbs-kbs&w=100&h=100&fit=cover&mask=circle)|![@sjunc](https://wsrv.nl/?url=avatars.githubusercontent.com/sjunc&w=100&h=100&fit=cover&mask=circle)|![@jungsh20241509](https://wsrv.nl/?url=avatars.githubusercontent.com/jungsh20241509&w=100&h=100&fit=cover&mask=circle)|![@pcw11](https://wsrv.nl/?url=avatars.githubusercontent.com/pcw11&w=100&h=100&fit=cover&mask=circle)|![@MoonHwitae](https://wsrv.nl/?url=avatars.githubusercontent.com/MoonHwitae&w=100&h=100&fit=cover&mask=circle)| 
-|:---:|:---:|:---:|:---:|:---:|
-|**김보성**|**차성준**|**정수호**|**박채원**|**문휘태**|
 |[kbs-kbs](https://github.com/kbs-kbs)|[sjunc](https://github.com/sjunc)|[jungsh20241509](https://github.com/jungsh20241509)|[pcw11](https://github.com/pcw11)|[MoonHwitae](https://github.com/MoonHwitae)|
+|:---:|:---:|:---:|:---:|:---:|
+|![@kbs-kbs](https://wsrv.nl/?url=avatars.githubusercontent.com/kbs-kbs&w=100&h=100&fit=cover&mask=circle)|![@sjunc](https://wsrv.nl/?url=avatars.githubusercontent.com/sjunc&w=100&h=100&fit=cover&mask=circle)|![@jungsh20241509](https://wsrv.nl/?url=avatars.githubusercontent.com/jungsh20241509&w=100&h=100&fit=cover&mask=circle)|![@pcw11](https://wsrv.nl/?url=avatars.githubusercontent.com/pcw11&w=100&h=100&fit=cover&mask=circle)|![@MoonHwitae](https://wsrv.nl/?url=avatars.githubusercontent.com/MoonHwitae&w=100&h=100&fit=cover&mask=circle)| 
+|**김보성**|**차성준**|**정수호**|**박채원**|**문휘태**|
 
 
 ## 👀 프로젝트 둘러보기
